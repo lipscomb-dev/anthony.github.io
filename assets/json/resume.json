@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Anthony Lipscomb Jr",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "anthony@lipscomb.dev",
+    "phone": "(805) 704-0196",
+    "url": "https://anthony.lipscomb.dev",
+    "summary": ""
+  },
+  "work": [
+    {
+      "name": "Meta",
+      "position": "Software Engineer (IC5) - FB Growth",
+      "url": "https://facebook.com",
+      "startDate": "2022-06",
+      "endDate": "2023-10",
+      "summary": "",
+      "highlights": ["XAV Switcher", "FB Growth Deep Links"]
+    },
+    {
+      "name": "Mindbody",
+      "position": "Software Engineer IV - Mobile (Tech Lead)",
+      "url": "https://www.mindbodyonline.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-06",
+      "summary": "",
+      "highlights": ["Pick-A-Spot", "Family Accounts"]
+    },
+    {
+      "name": "Mindbody",
+      "position": "Software Engineer III - Mobile",
+      "url": "https://www.mindbodyonline.com/",
+      "startDate": "2015-03",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": ["Mindbody Connect Rebrand"]
+    },
+    {
+      "name": "Mindbody",
+      "position": "Software Engineer - Android",
+      "url": "https://www.mindbodyonline.com/",
+      "startDate": "2013-07",
+      "endDate": "2015-03",
+      "summary": "",
+      "highlights": ["AsyncTask API Layer"]
+    },
+    {
+      "name": "Mindbody",
+      "position": "Automated Test Developer",
+      "url": "https://www.mindbodyonline.com/",
+      "startDate": "2011-05",
+      "endDate": "2013-06",
+      "summary": "",
+      "highlights": ["Selenium"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Polytechnic University, San Luis Obispo",
+      "location": "San Luis Obispo, CA",
+      "url": "https://calpoly.edu",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2008-09",
+      "endDate": "2013-12",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Associate Android Developer",
+      "date": "2017-03",
+      "issuer": "Google Developers",
+      "url": "https://www.credential.net/ac880c78-4e91-477d-83c6-a8441294be1f?key=c51214f21d30f1bb8dad7d914bd000587064324c3b5e2c2537f8e67008607a1d",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "XML Views",
+        "Jetpack Compose",
+        "Kotlin Coroutines",
+        "Kotlin Flows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mobile Development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Kotlin Multiplatform",
+        "MVVM Architecture",
+        "Declarative UI",
+        "RESTful APIs"
+      ]
+    }
+  ]
+}
